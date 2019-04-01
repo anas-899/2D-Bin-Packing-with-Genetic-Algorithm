@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticPlacement", "GeneticPlacement.csproj", "{BEF9D2F8-1624-4BD7-9879-033D99904E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF9D2F8-1624-4BD7-9879-033D99904E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF9D2F8-1624-4BD7-9879-033D99904E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF9D2F8-1624-4BD7-9879-033D99904E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF9D2F8-1624-4BD7-9879-033D99904E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

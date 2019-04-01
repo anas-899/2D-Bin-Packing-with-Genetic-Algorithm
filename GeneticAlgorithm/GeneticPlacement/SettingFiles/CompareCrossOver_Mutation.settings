@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GeneticPlacement" GeneratedClassName="CompareCrossOver_Mutation">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumberOfGenerations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="PopulationSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="UpdatePercentage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="SkyLineWasteSpace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">false</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
